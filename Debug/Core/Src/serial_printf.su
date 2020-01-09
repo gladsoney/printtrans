@@ -1,0 +1,2 @@
+serial_printf.c:30:1:__io_putchar	24	static
+serial_printf.c:44:6:serial_printf	16	static
